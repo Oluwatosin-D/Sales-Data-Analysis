@@ -13,6 +13,6 @@ Data set (https://docs.google.com/spreadsheets/d/1sI6VrRo0rZ5vbpbBgfQ7qIUzbQAsP9
 - Interactive dashboard supported data-driven decisions
 -(
 ## Dashboard Snapshot
-![Dashboard 1](dashboard.png)
+![Dashboard 1](https://github.com/Oluwatosin-D/Sales-Data-Analysis/blob/main/Dashboard%201%20(1).png))
 ![Dashboard 2](dashboard.png)
 
