@@ -14,5 +14,5 @@ Data set (https://docs.google.com/spreadsheets/d/1sI6VrRo0rZ5vbpbBgfQ7qIUzbQAsP9
 -(
 ## Dashboard Snapshot
 ![Dashboard 1](https://github.com/Oluwatosin-D/Sales-Data-Analysis/blob/main/Dashboard%201%20(1).png))
-![Dashboard 2](dashboard.png)
+![Dashboard 2](https://github.com/Oluwatosin-D/Sales-Data-Analysis/blob/main/Dashboard%202.png))
 
